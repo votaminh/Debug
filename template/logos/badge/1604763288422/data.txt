@@ -24,7 +24,7 @@
       "matrix": "0.5692716,0.0,414.76016,0.0,0.5692716,756.5852,0.0,0.0,1.0",
       "width": 440,
       "height": 211,
-      "path": "/stickers/badge/template5.PNG",
+      "path": "/stickers/Badge/template5.PNG",
       "opacity": 255,
       "gradient": {},
       "gradientPosition": 0,
